@@ -67,4 +67,4 @@ ST-change graphics are represented in image below
 
 # Authors
 
-* Eldar Shayakhmetov
+* Eldar Shayahmetov, eldarsharpey@gmail.com
